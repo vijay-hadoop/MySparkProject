@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c945d95-f4cf-49c9-ad51-a2642d461e2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySparkProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSpark1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSpark11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSpark2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSpark22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSpark3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSpark33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSpark4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSpark44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSpark5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaSpark55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaEmployee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSpark1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSpark11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSpark2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSpark22.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSpark3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSpark33.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSpark4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSpark44.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSpark5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/JavaSpark55.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/MySparkProject.kotlin_module" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dr3s8JCv9kYjmWhZGOl3MuMSiW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JavaSpark55">
+    <configuration name="JavaSpark2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSpark2" />
+      <module name="MySparkProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaSpark22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSpark22" />
+      <module name="MySparkProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaSpark33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSpark33" />
+      <module name="MySparkProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaSpark44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSpark44" />
+      <module name="MySparkProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaSpark55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaSpark55" />
+      <module name="MySparkProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JavaSpark55" />
+        <item itemvalue="Application.JavaSpark44" />
+        <item itemvalue="Application.JavaSpark2" />
+        <item itemvalue="Application.JavaSpark33" />
+        <item itemvalue="Application.JavaSpark22" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c945d95-f4cf-49c9-ad51-a2642d461e2e" name="Default Changelist" comment="" />
+      <created>1593169590499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593169590499</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
